@@ -15,6 +15,9 @@ A simple web application for a local pharmacy, built with PHP and MySQL. Users c
 3. Make sure the `assets/images/products/` folder is included for product images.
 4. Open `http://localhost/Pharmacy-Website` in your browser.
 
+### Admin Login
+- Email: admin@pharmacy.com
+- Password: password123
 
 ## File Structure
 - `index.php` – Homepage
